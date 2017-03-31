@@ -4,4 +4,5 @@
 <img src="https://github.com/cmarmolejomatos4606/Steeled-Reperccusion/blob/master/Game%20Plan/Capture%20Pt1.PNG">
 <img src="https://github.com/cmarmolejomatos4606/Steeled-Reperccusion/blob/master/Game%20Plan/Capture%20Game%20Over.PNG">
 <p>Steelbox Inc.</p>
+<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame">PyGame Wheel file.</a>
 <a href="https://youtu.be/_GikMdhAhv0">Python 3.6 Installation Tutorial.</a>
